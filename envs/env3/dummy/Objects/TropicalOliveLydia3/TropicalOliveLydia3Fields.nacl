@@ -1,0 +1,7 @@
+type dummy.TropicalOliveLydia3 {
+  hidden_boolean CompetitiveGrayHedwiga2 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+}
